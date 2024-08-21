@@ -1,0 +1,185 @@
+.head-top {
+  background-color: white;
+  width: 10rem;
+  height: 4rem;
+}
+
+.contact-number {
+  position: absolute;
+  margin-top: auto;
+  margin-left: 20px;
+}
+
+.contact-email {
+  position: absolute;
+  margin-top: 0;
+  margin-left: 250px;
+}
+.location {
+  position: absolute;
+  margin-left: 500px;
+}
+.navbar {
+  display: flex;
+  justify-content: left;
+}
+.Emty {
+  position: relative;
+  margin-top: 0;
+
+  width: 1.5rem;
+  height: 5.8rem;
+  background-color: #20c997;
+}
+.mico-icon {
+  height: 5.8rem;
+  width: 5rem;
+  position: relative;
+  margin-left: 25px;
+  margin-top: -92px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.header-link {
+  position: relative;
+  margin-left: 130px;
+  margin-top: -92px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+  background-color: #20c997;
+  font-size: 1.5rem;
+  height: 5.8rem;
+}
+a {
+  text-decoration: none;
+}
+
+#video-icon {
+  position: relative;
+  size: 40px;
+  color: aqua;
+  margin-top: 60px;
+  font-size: 60px;
+}
+
+.hero-right {
+  flex-basis: 50%;
+}
+
+#h-1 {
+  font-size: 3rem;
+}
+#h-2 {
+  position: relative;
+  font-size: 3rem;
+  color: #20c997;
+  margin-top: -35px;
+}
+#button-1 {
+  background-color: black;
+  color: whitesmoke;
+  size: 50px;
+  align-items: centers;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.hero-right img:nth-child(1) {
+  width: 100%;
+  height: 100%;
+}
+#dots {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  top: -50%;
+}
+
+.hero {
+  background-color: white;
+  display: flex;
+  height: 500px;
+  box-shadow: 0px 5px 5px #ddd;
+}
+
+.hero-right {
+  flex-basis: 50%;
+}
+.hero-left {
+  flex-basis: 50%;
+}
+
+/* book_section */
+
+.book_section {
+  background-color: white;
+  box-shadow: 0px 5px 5px #ddd;
+  width: 90%;
+  height: 300px;
+  margin-left: 5%;
+}
+.input-title {
+  position: absolute;
+  margin-top: -20px;
+  font-size: 20px;
+}
+.input-title-2 {
+  position: absolute;
+  font-size: 20px;
+  margin-top: 25px;
+}
+.input-section {
+  width: 30%;
+  height: 35px;
+  border: 1px solid greenyellow;
+  border-radius: 5px;
+}
+.input-section-2 {
+  width: 30%;
+  height: 35px;
+  border: 1px solid greenyellow;
+  border-radius: 5px;
+  margin: 45px 0px 0px 0px;
+}
+.booking-form-submit {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  padding: 12px 30px;
+  margin-top: 15px;
+}
+.wraped {
+  margin: 5%;
+}
+/* 
+
+About-section */
+
+.About {
+  margin-top: 50px;
+  display: flex;
+  width: 95%;
+}
+
+.About-left {
+  flex-basis: 50%;
+}
+.About-right {
+  flex-basis: 50%;
+  margin-top: 80px;
+}
+
+.About-right-p {
+  color: rgba(6, 6, 6, 0.839);
+  margin-top: 40px;
+}
+.About-right-button {
+  background-color: black;
+  border-radius: 5px;
+  padding: 10px 30px 10px 30px;
+  color: white;
+  font-size: 20px;
+  margin-top: 40px;
+}
